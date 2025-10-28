@@ -1,7 +1,7 @@
 <html>
 
 <body>
-    <h2>Hello iam sushmitha sushmitha</h2>
+    <h2>Hello sushmitha</h2>
 </body>
 
 </html>
